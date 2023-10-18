@@ -29,6 +29,11 @@ Jacob McKitrick
 
 none
 
+## Preview
+
+Link to site: https://mckit-jate-pwa-c742b348524c.herokuapp.com/
+
+![App Screenshot](client/src/images/pwa-jate.jpg)
 
 
 ## Questions
